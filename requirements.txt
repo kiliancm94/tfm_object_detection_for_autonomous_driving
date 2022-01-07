@@ -1,0 +1,8 @@
+jupyter
+Pillow
+photutils
+opencv-python
+pandas
+matplotlib
+black
+tqdm
